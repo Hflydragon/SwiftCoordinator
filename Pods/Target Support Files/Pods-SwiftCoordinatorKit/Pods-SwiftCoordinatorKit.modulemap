@@ -1,0 +1,6 @@
+module Pods_SwiftCoordinatorKit {
+  umbrella header "Pods-SwiftCoordinatorKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
